@@ -77,6 +77,7 @@ LCBA-Seg uses a semi-supervised learning pipeline:
 4. Refine boundaries using BAM
 
 ---
+# Dataset: https://drive.google.com/file/d/1jrW9qDTtcvRSCtGvcj46syLisGxrBCPs/view
 
 ## 📊 Loss Function
 
