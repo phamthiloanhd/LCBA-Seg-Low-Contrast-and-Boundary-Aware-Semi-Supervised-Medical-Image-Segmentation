@@ -1,4 +1,4 @@
-# LCBA-Seg: Low-Contrast and Boundary-Aware Semi-Supervised Segmentation
+# LCBA-Seg
 
 ## 📌 Overview
 
