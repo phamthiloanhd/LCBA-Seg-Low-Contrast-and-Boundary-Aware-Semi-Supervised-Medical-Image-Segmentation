@@ -79,6 +79,9 @@ LCBA-Seg uses a semi-supervised learning pipeline:
 ---
 # Dataset: https://drive.google.com/file/d/1jrW9qDTtcvRSCtGvcj46syLisGxrBCPs/view
 
+The OvaTUS dataset is available for academic research purposes under controlled access at:
+https://sigm-seee.github.io/datasets/Ovarian.html
+
 ## 📊 Loss Function
 
 The total loss is defined as:
