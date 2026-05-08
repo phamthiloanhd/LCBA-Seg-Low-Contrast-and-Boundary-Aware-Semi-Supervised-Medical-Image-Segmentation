@@ -82,9 +82,7 @@ LCBA-Seg uses a semi-supervised learning pipeline:
 
 The total loss is defined as:
 
-\[
-\mathcal{L} = \mathcal{L}_{sup} + \lambda_1 \mathcal{L}_{unsup} + \lambda_2 \mathcal{L}_{boundary}
-\]
+\mathcal{L}_{LCBA} = \mathcal{L}_{BCE} + \alpha \mathcal{L}_{edge} + \beta \mathcal{L}_{contrast}
 
 ---
 
