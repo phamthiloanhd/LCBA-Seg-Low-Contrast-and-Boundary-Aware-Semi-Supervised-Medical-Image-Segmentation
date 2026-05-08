@@ -1,4 +1,4 @@
-# LCBA-Seg
+# LCBA-Seg: Low-Contrast and Boundary Aware Semi-Supervised Medical Image Segmentation
 
 ## 📌 Overview
 
